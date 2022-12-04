@@ -8,3 +8,7 @@ if __name__ == "__main__":
             suma += int(a)
         i += 1
     print(suma)
+<<<<<<< HEAD
+=======
+    
+>>>>>>> 06f47b58eca80f3539e1a05d37821ab8786978a1

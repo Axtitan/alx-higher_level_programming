@@ -16,3 +16,7 @@ if __name__ == "__main__":
             if i > 0:
                 print("{:d}: {}".format(i, a))
             i += 1
+<<<<<<< HEAD
+=======
+            
+>>>>>>> 06f47b58eca80f3539e1a05d37821ab8786978a1

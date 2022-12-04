@@ -7,3 +7,7 @@ if __name__ == "__main__":
     print("{:d} - {:d} = {:d}".format(a, b, sub(a, b)))
     print("{:d} * {:d} = {:d}".format(a, b, mul(a, b)))
     print("{:d} / {:d} = {:d}".format(a, b, div(a, b)))
+<<<<<<< HEAD
+=======
+    
+>>>>>>> 06f47b58eca80f3539e1a05d37821ab8786978a1
